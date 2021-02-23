@@ -1,0 +1,12 @@
+{
+    "name": "kercode/coffee",
+    "authors": [
+        {
+            "name": "Jenilee2108",
+            "email": "jenilee.mb@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
